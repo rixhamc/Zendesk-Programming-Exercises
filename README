@@ -1,0 +1,3 @@
+== Zendesk Programming Problems
+
+Each of the projects is organized into its own .rb file.  main.rb is the application file that includes each of the header files and demonstrates their usage.
